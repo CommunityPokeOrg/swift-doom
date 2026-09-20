@@ -1,0 +1,5 @@
+.build/
+*.ppm
+*.wav
+demo-frames/
+demo-out
